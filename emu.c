@@ -1,9 +1,3 @@
-/*
-*	Seniha Sena Topkaya
-*	131044020
-*	Hw2
-*
-*/
 
 /*added for std=c11 if makefile will be changed*/
 #define _POSIX_C_SOURCE 200809L
